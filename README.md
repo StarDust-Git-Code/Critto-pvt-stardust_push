@@ -1,4 +1,6 @@
-Abstract — CRITTO: A Decentralized, AI-Driven Smart Home Assistant
+##CRITTO: A Decentralized, AI-Driven Smart Home Assistant
+
+
 CRITTO is an offline, AI-powered smart environment assistant designed for fully local operation, prioritizing privacy, intelligence, and adaptive automation.
 Running on a Raspberry Pi 5, it integrates Natural Language Processing (NLP), Natural Language Understanding (NLU), emotion recognition, and habit learning to anticipate user needs and automate tasks intuitively.
 The system operates through a multi-node, mesh-based architecture, where distributed nodes (e.g., kitchen, bedroom, hall) communicate peer-to-peer, ensuring resilience even if one node fails. Each node processes context- and location-specific commands, guided by mode-based logic to ensure actions are appropriate for each environment.
