@@ -1,5 +1,3 @@
-GitHub Copilot Chat Assistant
-
 # CRITTO — A Decentralized, AI-Driven Smart Home Assistant
 
 CRITTO is an offline, privacy-first smart environment assistant that runs entirely on the edge (e.g., Raspberry Pi 5). It combines on-device NLP/NLU, emotion recognition, habit learning, and a decentralized mesh architecture to deliver adaptive automation, local safety monitoring, and context-aware interactions — all without sending personal data to the cloud unless explicitly requested.
