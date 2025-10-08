@@ -162,13 +162,4 @@ Extending CRITTO
 
 Contributing
 - Open-source contributions welcome (features, device drivers, docs, tests).
-- Please follow repository guidelines (issue templates, PR templates, code style).
-- If you'd like, I can scaffold a starter repo layout (README.md, sample-config.yaml, rules/, models/README).
-
-License & contact
-- Choose an appropriate open-source license for your project (MIT, Apache 2.0, etc.). I can add a LICENSE file if you tell me which license you prefer.
-- For questions or help with repo scaffolding, deployment scripts, or sample configs — tell me which you want next.
-
-Would you like me to:
-- Generate a repo scaffold (README.md, sample-config.yaml, example-rule.yaml, LLM-json-parser stub), or
-- Produce a shorter project summary for a website or pitch deck?
+- Note this repo is still under development on our local devices, once the final goal is fixed. we start to push folder structure, etc., via git.
